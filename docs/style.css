@@ -77,7 +77,7 @@ nav ul li a:focus {
 @media (min-width: 640px) {
     /* Stílusok nagyobb képernyőkhöz */
 }
-#scrollToTopBtn {
+button{
     display: none; /* Alapértelmezés szerint rejtve van */
     position: fixed;
     bottom: 20px;
@@ -90,6 +90,6 @@ nav ul li a:focus {
     padding: 10px;
     cursor: pointer;
 }
-#scrollToTopBtn:hover {
+button:hover {
     background-color: #0056b3;
 }
