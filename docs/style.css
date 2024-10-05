@@ -77,7 +77,7 @@ nav ul li a:focus {
 @media (min-width: 640px) {
     /* Stílusok nagyobb képernyőkhöz */
 }
-button{
+button {
     display: none; /* Alapértelmezés szerint rejtve van */
     position: fixed;
     bottom: 20px;
