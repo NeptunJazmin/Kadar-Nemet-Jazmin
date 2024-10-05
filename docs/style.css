@@ -1,0 +1,7 @@
+
+nav ul li a:focus {
+    outline: 2px dashed white; /* Custom focus state */
+}
+@media (min-width: 640px) {
+    /* Stílusok nagyobb képernyőkhöz */
+}
